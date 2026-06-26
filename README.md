@@ -4,8 +4,9 @@
 [![React Native](https://img.shields.io/badge/Mobile-React%20Native-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](#)
 
-<img width="1260" height="877" alt="Screenshot 2026-06-26 143313" src="https://github.com/user-attachments/assets/3c5e72c4-7a01-4b73-a370-8f0fa7085ef6" />
 <img width="1239" height="867" alt="Screenshot 2026-06-26 143241" src="https://github.com/user-attachments/assets/e99460df-faf6-4dff-83c5-a0be2e1c5bc7" />
+<img width="1260" height="877" alt="Screenshot 2026-06-26 143313" src="https://github.com/user-attachments/assets/3c5e72c4-7a01-4b73-a370-8f0fa7085ef6" />
+
 
 
 **SafeGuard** is a comprehensive, life-saving emergency response and real-time location-sharing platform designed to bridge the gap between individuals in critical situations and their emergency contacts or system administrators. 
